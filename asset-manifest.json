@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/eLmede/static/css/main.a617e044.chunk.css",
+    "main.js": "/eLmede/static/js/main.db61cb2c.chunk.js",
+    "main.js.map": "/eLmede/static/js/main.db61cb2c.chunk.js.map",
+    "runtime-main.js": "/eLmede/static/js/runtime-main.4cf8ac74.js",
+    "runtime-main.js.map": "/eLmede/static/js/runtime-main.4cf8ac74.js.map",
+    "static/js/2.31c3e7ec.chunk.js": "/eLmede/static/js/2.31c3e7ec.chunk.js",
+    "static/js/2.31c3e7ec.chunk.js.map": "/eLmede/static/js/2.31c3e7ec.chunk.js.map",
+    "static/js/3.77e54031.chunk.js": "/eLmede/static/js/3.77e54031.chunk.js",
+    "static/js/3.77e54031.chunk.js.map": "/eLmede/static/js/3.77e54031.chunk.js.map",
+    "index.html": "/eLmede/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/eLmede/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.31c3e7ec.chunk.js.LICENSE.txt": "/eLmede/static/js/2.31c3e7ec.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/eLmede/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cf8ac74.js",
+    "static/js/2.31c3e7ec.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.db61cb2c.chunk.js"
+  ]
+}
