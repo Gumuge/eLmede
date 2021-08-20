@@ -44,5 +44,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://Gumuge.github.io/eLmede/"
+  "homepage": "https://Gumuge.github.io/eLmede/",
+  "devDependencies": {
+    "@types/react-router-dom": "^5.1.8"
+  }
 }
