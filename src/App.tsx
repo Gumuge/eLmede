@@ -1,14 +1,25 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link
+} from "react-router-dom";
+import MainPage from "./Components/MainPage";
 
-function App() {
+
+//function App(props : Movie): JSX.Element 
+function App(): JSX.Element {
   return (
-    <div className="App">
-      <header className="App-header">
-        elmede
-      </header>
-    </div>
+    <Router>
+      <div>
+        <Switch>
+        <Route path="/eLmede" exact={true}>
+            <MainPage />
+        </Route>
+        </Switch>
+      </div>
+    </Router>
   );
 }
 
