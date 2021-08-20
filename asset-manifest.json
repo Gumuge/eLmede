@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/eLmede/static/css/main.cf96e799.chunk.css",
-    "main.js": "/eLmede/static/js/main.152b161a.chunk.js",
-    "main.js.map": "/eLmede/static/js/main.152b161a.chunk.js.map",
+    "main.js": "/eLmede/static/js/main.d6a99abd.chunk.js",
+    "main.js.map": "/eLmede/static/js/main.d6a99abd.chunk.js.map",
     "runtime-main.js": "/eLmede/static/js/runtime-main.36fd8505.js",
     "runtime-main.js.map": "/eLmede/static/js/runtime-main.36fd8505.js.map",
-    "static/js/2.521bd435.chunk.js": "/eLmede/static/js/2.521bd435.chunk.js",
-    "static/js/2.521bd435.chunk.js.map": "/eLmede/static/js/2.521bd435.chunk.js.map",
+    "static/js/2.8eeaecfc.chunk.js": "/eLmede/static/js/2.8eeaecfc.chunk.js",
+    "static/js/2.8eeaecfc.chunk.js.map": "/eLmede/static/js/2.8eeaecfc.chunk.js.map",
     "static/js/3.216472e3.chunk.js": "/eLmede/static/js/3.216472e3.chunk.js",
     "static/js/3.216472e3.chunk.js.map": "/eLmede/static/js/3.216472e3.chunk.js.map",
     "index.html": "/eLmede/index.html",
     "static/css/main.cf96e799.chunk.css.map": "/eLmede/static/css/main.cf96e799.chunk.css.map",
-    "static/js/2.521bd435.chunk.js.LICENSE.txt": "/eLmede/static/js/2.521bd435.chunk.js.LICENSE.txt"
+    "static/js/2.8eeaecfc.chunk.js.LICENSE.txt": "/eLmede/static/js/2.8eeaecfc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.36fd8505.js",
-    "static/js/2.521bd435.chunk.js",
+    "static/js/2.8eeaecfc.chunk.js",
     "static/css/main.cf96e799.chunk.css",
-    "static/js/main.152b161a.chunk.js"
+    "static/js/main.d6a99abd.chunk.js"
   ]
 }
