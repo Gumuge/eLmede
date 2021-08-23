@@ -1,9 +1,12 @@
 import React from 'react'
+import Mainlogo from "../images/Mainlogo.png"
+import "./Header.css";
+import Minilogo from "../images/minilogo.png"
 
 function Header() {
     return (
         <div>
-            eLmede
+            <img src={Mainlogo}></img>
         </div>
     )
 }

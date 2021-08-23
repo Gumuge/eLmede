@@ -14,9 +14,9 @@ function MainPage() {
             <Nav></Nav>
         </nav>
       
-      <header className="App-header">
-        elmede
-      </header>
+      <article className="App-header">
+        elmede 폰트적용 테스트
+      </article>
     </div>
   );
 }

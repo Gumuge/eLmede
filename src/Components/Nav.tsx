@@ -15,17 +15,17 @@ function Nav():JSX.Element {
             <Link to={{
                 pathname:"/member"
             }}>
-            <button>멤버</button>
+            <button>인력현황</button>
             </Link> 
             <Link to={{
                 pathname:"/ex3"
             }}>
-            <button>연구자료</button>
+            <button>개발자료</button>
             </Link> 
             <Link to={{
                 pathname:"/ex4"
             }}>
-            <button>연구자료</button>
+            <button>특허 및 논문자료</button>
             </Link> 
         </div>
     )
