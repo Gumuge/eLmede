@@ -1,10 +1,10 @@
-table{
+.table1, .table2{
     width: 100%;
     border: 5px solid black;
     text-align: center;
     border-collapse: collapse;
 }
-th, td{
+.thesis th, td{
     border: 1px solid black;
 }
 .table1{

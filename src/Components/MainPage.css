@@ -10,6 +10,11 @@ body{
     justify-content: center;
 
 }
+pre{
+    font-family: 'paybooc-Medium';
+    font-weight: bold;
+    white-space: pre-wrap;
+}
 @font-face {
     font-family: 'paybooc-Medium';
     src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/paybooc-Medium.woff') format('woff');
