@@ -22,12 +22,13 @@
     width: 100%;
     display: grid;
     grid-template-columns: 40% 40%;
-    align-items: center;
+    
     justify-content: center;
     text-align: center;
 }
 .Outline{
     margin-left: 200px;
+
     
 }
 .Vision p{

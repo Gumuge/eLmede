@@ -27,7 +27,11 @@ function Nav():JSX.Element {
             }}>
             <button>특허 및 논문자료</button>
             </Link> 
+            <div>
+            <hr></hr>
+            </div>
         </div>
+            
     )
 }
 

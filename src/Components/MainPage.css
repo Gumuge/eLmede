@@ -23,8 +23,7 @@ pre{
 }
 .Main img{
     width: auto;
-    max-width: 90%;
-    height: 840px;
+    height: 835px;
     display: grid;
     margin: auto;
 }

@@ -1,6 +1,6 @@
 .Nav{
     margin: 10px;
-    background-color: #BBBBBB;
+    /* background-color: #BBBBBB; */
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
     grid-template-rows: 100%;
@@ -17,4 +17,8 @@
     height: 40px;
     font-family: 'paybooc-Medium';
     font-weight: bold;
+}
+hr{
+    width: 400%;
+    margin-bottom: -10px;
 }

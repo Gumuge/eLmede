@@ -1,12 +1,12 @@
 .target .Intro{
     
 }
-.targetimg{
+.target{
     width: 100%;
     text-align: center;
 }
-.targetimg img{
-    margin-left: 150px;
-    width: 80%;
-    height: fit-content;
+.target img{
+    margin-left: 100px;
+    width: 100%;
+    height: 100%;
 }
