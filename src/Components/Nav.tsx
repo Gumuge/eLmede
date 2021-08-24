@@ -8,22 +8,22 @@ function Nav():JSX.Element {
     return (
         <div className="Nav">
             <Link to={{
-                pathname:"/eLmede"
+                pathname:"/eLmede/info"
             }}>
             <button>회사소개</button>
             </Link>
             <Link to={{
-                pathname:"/member"
+                pathname:"/eLmede/manpower"
             }}>
             <button>인력현황</button>
             </Link> 
             <Link to={{
-                pathname:"/ex3"
+                pathname:"/eLmede/target"
             }}>
-            <button>개발자료</button>
+            <button>개발목표</button>
             </Link> 
             <Link to={{
-                pathname:"/ex4"
+                pathname:"/eLmede/thesis"
             }}>
             <button>특허 및 논문자료</button>
             </Link> 

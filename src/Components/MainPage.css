@@ -1,8 +1,14 @@
-.nav{
-    
+.Main nav{
+    margin-top: 15px;
 }
 body{
     font-family: 'paybooc-Medium';
+    width: 100%;
+    align-items: center;
+    display: grid;
+    grid-template-columns: 80%;
+    justify-content: center;
+
 }
 @font-face {
     font-family: 'paybooc-Medium';
@@ -10,3 +16,11 @@ body{
     font-weight: normal;
     font-style: normal;
 }
+.Main img{
+    width: auto;
+    max-width: 90%;
+    height: 840px;
+    display: grid;
+    margin: auto;
+}
+

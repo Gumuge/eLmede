@@ -1,6 +1,6 @@
-img{
-    width: 200px;
+.MainLogo img{
+    width: auto;
     height: 50px;
-    margin-left: 10px;
+    margin-left: 20px;
     margin-top: 10px;
 }
