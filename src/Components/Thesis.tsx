@@ -37,7 +37,7 @@ function Thesis() {
                     </tr>
                 </table>
                 <table className="table2">
-                    <tr style={{backgroundColor:"purple"}}>
+                    <tr style={{backgroundColor:"orange"}}>
                         <th>번호</th><th>구분</th><th>논문명</th><th>게재지</th>
                         <th>게재연도</th><th>역할</th><th>Impact factor</th><th>기타</th>
                     </tr>
