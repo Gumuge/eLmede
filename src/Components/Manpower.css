@@ -1,0 +1,37 @@
+
+.Man1 img{
+    width: 60px;
+    height: auto; 
+    margin-right: 10px;
+}
+.Man1 div{
+    display: flex;
+    color: orange;
+    font-size: 20px;
+}
+.Man2 img{
+    width: 65px;
+    height: 70px; 
+    margin-right: 20px;
+}
+.Man2 div{
+    display: flex;
+    color: blue;
+    font-size: 20px;
+}
+.ManInfo{
+    display: grid;
+    grid-template-columns: 40% 35% 25%;
+    grid-template-rows: 20% 80%;
+}
+.ManInfo .Intro{
+    grid-column-start: 1;
+    grid-column-end: -1;
+}
+.profe{
+    width: 400px;
+    height: auto;  
+}
+.ManInfo p{
+    font-weight: bold;
+}

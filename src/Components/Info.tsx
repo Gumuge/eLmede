@@ -16,14 +16,14 @@ function Info() {
             </nav>
             <article>
             <div className="Intro">
-                <a>Introduction</a>
+                <p>Introduction</p>
             </div>
             <div className="IntroImg">
             <div className="Vision">
                 <img src={vision}></img>
-                <b><p style={{color:"blue"}}>
+                <p style={{color:"blue"}}>
                 신약개발을 통한 인간 생명의 질 향상 
-                </p></b>
+                </p>
                 <p style={{textAlign:"left"}}>
                 (1) 환자들 치료를 통한 전 세계 환자들의 생명의 질 향상​
                 </p>
@@ -36,9 +36,9 @@ function Info() {
             </div>
             <div className="Outline">
                 <img src={outline}></img>
-                <b><p style={{color:"#660066" }}>eLmed
+                <p style={{color:"#660066" }}>eLmed
                 설립일: 2019. 6.19​
-                </p></b>
+                </p>
                 <p style={{textAlign:"left"}}>
                 주요사업: 신약 개발​
                 </p>

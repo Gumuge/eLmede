@@ -12,7 +12,7 @@ function Target() {
             <nav>
                 <Nav></Nav>
             </nav>
-            <article>
+            <article className="target">
                 <div className="Intro">
                     <p>
                         개발 신약 타깃
