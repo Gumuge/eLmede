@@ -17,19 +17,19 @@ function App(): JSX.Element {
     <Router>
       <div>
         <Switch>
-        <Route path="/eLmede" exact={true}>
+        <Route path="/" exact={true}>
             <MainPage />
         </Route>
-        <Route path="/eLmede/info" exact={true}>
+        <Route path="/info" exact={true}>
             <Info />
         </Route>
-        <Route path="/eLmede/manpower" exact={true}>
+        <Route path="/manpower" exact={true}>
             <Manpower />
         </Route>
-        <Route path="/eLmede/target" exact={true}>
+        <Route path="/target" exact={true}>
             <Target />
         </Route>
-        <Route path="/eLmede/thesis" exact={true}>
+        <Route path="/thesis" exact={true}>
             <Thesis />
         </Route>
         </Switch>
