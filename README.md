@@ -14,9 +14,14 @@ https://waifu2x.me/
 2021-08-25
 ----------
 gh page에서는 SPA를 지원하지 않아 새로고침을 하면 404에러가 발생하였고    
-https://iamsjy17.github.io/react/2018/11/04/githubpage-SPA.html    
-https://robiul-hassan.medium.com/reactjs-gh-page-hard-refresh-issue-404-not-found-ed7954a6d042    
-해당 두 사이트를 참고하여 수정하였다.    
-https://velog.io/@ricale/Create-React-App-%EC%9C%BC%EB%A1%9C-GitHub-Pages-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0
+https://iamsjy17.github.io/react/2018/11/04/githubpage-SPA.html     
+
+해당 사이트를 참고하여 수정하였다.    
+https://velog.io/@ricale/Create-React-App-%EC%9C%BC%EB%A1%9C-GitHub-Pages-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0    
+를 참고하여 도메인을 연결하였다. 하지만 도메인 연결후 위에서 언급했던 새로고침이 안되는 상황이    
+발생하였다.    
+https://github.com/rafgraph/spa-github-pages    
+해당 사이트에서 404.html의 segmentCount의 값을 도메인을 사용할땐 0, 그렇지 않으면 1로    
+설정한다는 것을 알았으며 0으로 설정하니 잘 작동하였다.   
 
 
