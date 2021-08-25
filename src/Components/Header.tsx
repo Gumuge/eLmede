@@ -10,7 +10,7 @@ function Header() {
     return (
         <div className="MainLogo">
             <Link to={{
-                pathname:"/eLmede"
+                pathname:"/"
             }}>
             <img src={Mainlogo}></img>
             </Link>
