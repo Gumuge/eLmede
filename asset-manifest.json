@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.8ad0bd79.chunk.css",
-    "main.js": "/static/js/main.561b3079.chunk.js",
-    "main.js.map": "/static/js/main.561b3079.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.02040278.js",
-    "runtime-main.js.map": "/static/js/runtime-main.02040278.js.map",
-    "static/js/2.522384f4.chunk.js": "/static/js/2.522384f4.chunk.js",
-    "static/js/2.522384f4.chunk.js.map": "/static/js/2.522384f4.chunk.js.map",
-    "static/js/3.28ec5c6a.chunk.js": "/static/js/3.28ec5c6a.chunk.js",
-    "static/js/3.28ec5c6a.chunk.js.map": "/static/js/3.28ec5c6a.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.8ad0bd79.chunk.css.map": "/static/css/main.8ad0bd79.chunk.css.map",
-    "static/js/2.522384f4.chunk.js.LICENSE.txt": "/static/js/2.522384f4.chunk.js.LICENSE.txt",
-    "static/media/Main.b0be4bdc.png": "/static/media/Main.b0be4bdc.png",
-    "static/media/Mainlogo.b09b7d1c.png": "/static/media/Mainlogo.b09b7d1c.png",
-    "static/media/profe.04a2017a.png": "/static/media/profe.04a2017a.png",
-    "static/media/target2.1a2a4711.png": "/static/media/target2.1a2a4711.png"
+    "main.css": "/eLmede/static/css/main.8ad0bd79.chunk.css",
+    "main.js": "/eLmede/static/js/main.08da04ca.chunk.js",
+    "main.js.map": "/eLmede/static/js/main.08da04ca.chunk.js.map",
+    "runtime-main.js": "/eLmede/static/js/runtime-main.49c9e6ae.js",
+    "runtime-main.js.map": "/eLmede/static/js/runtime-main.49c9e6ae.js.map",
+    "static/js/2.522384f4.chunk.js": "/eLmede/static/js/2.522384f4.chunk.js",
+    "static/js/2.522384f4.chunk.js.map": "/eLmede/static/js/2.522384f4.chunk.js.map",
+    "static/js/3.28ec5c6a.chunk.js": "/eLmede/static/js/3.28ec5c6a.chunk.js",
+    "static/js/3.28ec5c6a.chunk.js.map": "/eLmede/static/js/3.28ec5c6a.chunk.js.map",
+    "index.html": "/eLmede/index.html",
+    "static/css/main.8ad0bd79.chunk.css.map": "/eLmede/static/css/main.8ad0bd79.chunk.css.map",
+    "static/js/2.522384f4.chunk.js.LICENSE.txt": "/eLmede/static/js/2.522384f4.chunk.js.LICENSE.txt",
+    "static/media/Main.b0be4bdc.png": "/eLmede/static/media/Main.b0be4bdc.png",
+    "static/media/Mainlogo.b09b7d1c.png": "/eLmede/static/media/Mainlogo.b09b7d1c.png",
+    "static/media/profe.04a2017a.png": "/eLmede/static/media/profe.04a2017a.png",
+    "static/media/target2.1a2a4711.png": "/eLmede/static/media/target2.1a2a4711.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.02040278.js",
+    "static/js/runtime-main.49c9e6ae.js",
     "static/js/2.522384f4.chunk.js",
     "static/css/main.8ad0bd79.chunk.css",
-    "static/js/main.561b3079.chunk.js"
+    "static/js/main.08da04ca.chunk.js"
   ]
 }
