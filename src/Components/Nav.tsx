@@ -13,14 +13,14 @@ function Nav():JSX.Element {
             <button>회사소개</button>
             </Link>
             <Link to={{
-                pathname:"/manpower"
-            }}>
-            <button>인력현황</button>
-            </Link> 
-            <Link to={{
                 pathname:"/target"
             }}>
             <button>개발목표</button>
+            </Link> 
+            <Link to={{
+                pathname:"/manpower"
+            }}>
+            <button>인력현황</button>
             </Link> 
             <Link to={{
                 pathname:"/thesis"

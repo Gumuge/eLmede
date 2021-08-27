@@ -1,7 +1,7 @@
 import React from 'react'
 import Mainlogo from "../images/Mainlogo.png"
 import "./Header.css";
-import Minilogo from "../images/minilogo.png"
+
 import {
     Link
   } from "react-router-dom";

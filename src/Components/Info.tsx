@@ -37,7 +37,7 @@ function Info() {
             <div className="Outline">
                 <img src={outline}></img>
                 <p style={{color:"#660066" }}>eLmed</p>
-                <p>
+                <p style={{textAlign:"left"}}>
                 설립일: 2019. 6.19​
                 </p>
                 <p style={{textAlign:"left"}}>

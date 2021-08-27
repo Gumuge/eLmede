@@ -16,6 +16,7 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-router-dom": "^5.2.0",
+    "react-router-sitemap": "^1.2.0",
     "react-scripts": "4.0.3",
     "typescript": "^4.3.5",
     "web-vitals": "^1.1.2"
@@ -26,7 +27,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build",
-    "predeploy": "npm run build"
+    "predeploy": "npm run build",
+    "sitemap": "babel-node ./src/sitemapGenerator.js" 
   },
   "eslintConfig": {
     "extends": [
@@ -49,6 +51,7 @@
   "homepage": "https://elmed.co.kr/",
   "devDependencies": {
     "@types/jquery": "^3.5.6",
-    "@types/react-router-dom": "^5.1.8"
+    "@types/react-router-dom": "^5.1.8",
+    "babel-cli": "^6.26.0"
   }
 }
