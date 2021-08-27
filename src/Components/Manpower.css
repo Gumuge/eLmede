@@ -1,4 +1,6 @@
-
+.Manpower{
+    display: grid;
+}
 .Man1 img{
     width: 60px;
     height: auto; 

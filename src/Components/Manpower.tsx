@@ -8,7 +8,7 @@ import profe from "../images/profe.png";
 
 function Manpower() {
     return (
-        <div>
+        <div className="Manpower">
             <header>
                 <Header></Header>
             </header>

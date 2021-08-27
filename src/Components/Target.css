@@ -1,7 +1,10 @@
-.target .Intro{
-    
+.Main{
+    display: grid;
 }
 .target{
+    display: grid;
+}
+.targetArt{
     width: 100%;
     text-align: center;
 }

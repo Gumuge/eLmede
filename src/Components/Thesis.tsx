@@ -5,14 +5,14 @@ import "./Thesis.css";
 
 function Thesis() {
     return (
-        <div>
+        <div className="thesis">
             <header>
                 <Header></Header>
             </header>
             <nav>
                 <Nav></Nav>
             </nav>
-            <article className="thesis">
+            <article>
                 <div className="Intro">
                     <p>
                         특허 및 연구논문 현황

@@ -24,4 +24,8 @@ https://github.com/rafgraph/spa-github-pages
 해당 사이트에서 404.html의 segmentCount의 값을 도메인을 사용할땐 0, 그렇지 않으면 1로    
 설정한다는 것을 알았으며 0으로 설정하니 잘 작동하였다.   
 
+2021-08-27
+----------
+모바일 화면에서 보기 쉽게끔 각페이지의 display 속성을 grid로 하였다.    
+
 

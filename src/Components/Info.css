@@ -1,4 +1,6 @@
-
+.Info{
+    display: grid;
+}
 .Info article{
     width: 100%;
 }

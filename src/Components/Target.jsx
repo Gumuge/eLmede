@@ -15,7 +15,7 @@ function Target() {
     const [isStart, setisStart] = useState(false);
     console.log(isStart);
     return (
-        <div>  
+        <div className="Main">  
             <header>
                 <Header></Header>
             </header>
