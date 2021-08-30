@@ -37,16 +37,16 @@ function Info() {
             <div className="Outline">
                 <img src={outline}></img>
                 <p style={{color:"#660066" }}>eLmed</p>
-                <p style={{textAlign:"left"}}>
+                <p style={{textAlign:"left", marginLeft:"6em"}}>
                 설립일: 2019. 6.19​
                 </p>
-                <p style={{textAlign:"left"}}>
+                <p style={{textAlign:"left", marginLeft:"6em"}}>
                 주요사업: 신약 개발​
                 </p>
-                <p style={{textAlign:"left"}}>
+                <p style={{textAlign:"left", marginLeft:"6em"}}>
                 본점 소재지: 한림대학교 의과대학 3419호​
                 </p>
-                <p style={{textAlign:"left"}}>
+                <p style={{textAlign:"left", marginLeft:"6em"}}>
                 대표이사: 박재봉 교수 PhD (생화학 및 분자생물학 전공)
                 </p>
             </div>

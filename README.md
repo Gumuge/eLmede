@@ -26,6 +26,10 @@ https://github.com/rafgraph/spa-github-pages
 
 2021-08-27
 ----------
-모바일 화면에서 보기 쉽게끔 각페이지의 display 속성을 grid로 하였다.    
+모바일 화면에서 보기 쉽게끔 각페이지의 display 속성을 grid로 하였다.     
 
+
+2021-08-31
+----------
+피드백에 따른 세부적인 css 수정
 
